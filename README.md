@@ -1,4 +1,6 @@
-# Single Page Application project
+# Astrology Website
+
+##### SINGLE PAGE APPLICATION PROJECT FOR WEB DEVELOPMENT COURSE
 
 ## Description
 
@@ -10,17 +12,19 @@ For now the main goal is to practice by using as many of the things I have learn
 
 ## To do
 
-- navbar
-  - dropdown menu?, logo, login (mainly design)
-  - home, about, contact
-- home page brief introduction and description, a call to action => /create-chart
-- contact -> form
-- display fetched data
+-   display natal chart
+-   add explanation to natal placements
+-   add explanation to aspects
+
+## Done
+
+-   design hero page
+-   find API
+-   implement API
+-   find and implement photos
+-   find and implement sigils
+-   create contact form
 
 ##### API used
 
-- [Astrologer on Rapid](https://rapidapi.com/gbattaglia/api/astrologer)
-# astrology-website
-# astrology-website
-# astrology-website
-# astrology-website
+-   [Astrologer on Rapid](https://rapidapi.com/gbattaglia/api/astrologer)

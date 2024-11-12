@@ -1,0 +1,51 @@
+import styled from "styled-components";
+
+export const StyledButton = styled.button`
+  background-color: #3c3744;
+  letter-spacing: 0.8px;
+  border-radius: 4px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 1.5;
+  outline: none;
+  overflow: hidden;
+  padding: 16px 20px 16px;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.3rem;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin: 1rem;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+`;
+
+export const BigStyledButton = styled.button`
+  background-color: #3c3744;
+  letter-spacing: 0.8px;
+  border-radius: 4px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 1.5;
+  outline: none;
+  overflow: hidden;
+  padding: 18px 40px 16px;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.4rem;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin: 1rem;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+`;
