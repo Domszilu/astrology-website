@@ -2,6 +2,8 @@
 
 ##### SINGLE PAGE APPLICATION PROJECT FOR WEB DEVELOPMENT COURSE
 
+![alt text](/public/for-readme/spa-project-1.png)
+
 ## Description
 
 This website is being created as a project task for my single page application module.
@@ -28,3 +30,7 @@ For now the main goal is to practice by using as many of the things I have learn
 ## API used
 
 -   [Astrologer on Rapid](https://rapidapi.com/gbattaglia/api/astrologer)
+
+## Contact
+
+Dominik Mészáros - m.dominik.andras@gmail.com
