@@ -25,6 +25,6 @@ For now the main goal is to practice by using as many of the things I have learn
 -   find and implement sigils
 -   create contact form
 
-##### API used
+## API used
 
 -   [Astrologer on Rapid](https://rapidapi.com/gbattaglia/api/astrologer)
